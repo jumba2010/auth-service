@@ -1,0 +1,7 @@
+sms:
+  route: default
+  sender: AUTHEN
+  auth:
+    key: testKey
+  api:
+    url: http://api.msg91.com/api/sendhttp.php?
